@@ -1,0 +1,25 @@
+{
+  "name": "hapijs-project",
+  "version": "1.0.0",
+  "description": "hapijs tutorial project ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharbel93/hapijs-project.git"
+  },
+  "keywords": [
+    "hapijs"
+  ],
+  "author": "sharbel chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharbel93/hapijs-project/issues"
+  },
+  "homepage": "https://github.com/sharbel93/hapijs-project#readme",
+  "dependencies": {
+    "hapi": "^17.5.2"
+  }
+}
